@@ -1,0 +1,12 @@
+Exit
+exit
+Quit
+quit
+Stop
+stop
+Cancel
+cancel
+Done
+done
+Finish
+finish

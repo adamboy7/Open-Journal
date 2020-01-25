@@ -1,0 +1,602 @@
+﻿0:Nothing:12
+1:Potion:1
+2:Hi-Potion:1
+3:Ether:1
+4:Elixir:1
+5:Mega Potion:1
+6:Mega Ether:1
+7:Megalixir:1
+8:Ability Ring:18
+9:Engineer's Ring:18
+10:Technician's Ring:18
+11:Expert's Ring:18
+12:Sardonyx Ring:18
+13:Tourmaline Ring:18
+14:Aquamarine Ring:18
+15:Garnet Ring:18
+16:Diamond Ring:18
+17:Silver Ring:18
+18:Gold Ring:18
+19:Platinum Ring:18
+20:Mythril Ring:18
+21:Fire Element:9
+22:Blizzard Element:9
+23:Thunder Element:9
+24:Cure Element:9
+25:Ukulele Charm:30
+26:Valor Form:26
+27:Wisdom Form:26
+28:Orichalcum Ring:18
+29:Final Form:26
+30:Anti Form:26
+31:Master Form:26
+32:Torn Pages:3
+33:N/A:12
+34:Master's Ring:18
+35:Moon Amulet:18
+36:Star Charm:18
+37:N/A:12
+38:Skill Ring:18
+39:Skillful Ring:18
+40:Soldier Earring:18
+41:Kingdom Key:5
+42:Oathkeeper:5
+43:Oblivion:5
+44:Detection Sabor:5
+45:Frontier of Ultima:5
+46:Fencer Earring:18
+47:Mage Earring:18
+48:Slayer Earring:18
+49:Knight's Shield:7
+50:Detection Shield:7
+51:Test the King:7
+52:Cosmic Ring:18
+53:Medal:18
+54:Battlefields of War:20
+55:Sword of the Ancestor:20
+56:Cosmic Arts:18
+57:Shadow Archive:18
+58:Shadow Archive+:18
+59:Beast's Claw:20
+60:Bone Fist:20
+61:Proud Fang:20
+62:Skill and Crossbones:20
+63:Lucky Ring:18
+64:Full Bloom:18
+65:Draw Ring:18
+66:Full Bloom+:18
+67:Elven Bandanna:8
+68:Divine Bandanna:8
+69:Power Band:8
+70:Buster Band:8
+71:Antiform Dummy:5
+72:Scimitar:20
+73:Way to Dawn:20
+74:Identity Disk:20
+75:Mage's Staff:6
+76:N/A:12
+77:N/A:12
+78:Protect Belt:8
+79:Gaia Belt:8
+80:N/A:12
+81:N/A:12
+82:Guard:4
+83:N/A:12
+84:N/A:12
+85:N/A:12
+86:N/A:12
+87:Magnet Element:9
+88:Reflect Element:9
+89:Navigational Map:3
+90:Castle Map:3
+91:Basement Map:3
+92:Castle Walls Map:3
+93:N/A:12
+94:Hight Jump LV1:4
+95:High Jump LV2:4
+96:High Jump LV3:4
+97:High Jump MAX:4
+98:Quick Run LV1:4
+99:Quick Run LV2:4
+100:Quick Run LV3:4
+101:Quick Run MAX:4
+102:Aerial Dodge LV1:4
+103:Aerial Dodge LV2:4
+104:Aerial Dodge LV3:4
+105:Aerial Dodge MAX:4
+106:Glide LV1:4
+107:Glide LV2:4
+108:Glide LV3:4
+109:Glide MAX:4
+110:N/A:12
+111:Cosmic Belt:8
+112:Encampment Area Map:3
+113:Village Area Map:3
+114:Cornerstone Hill Map:3
+115:Window of Time Map 2:3
+116:Lilliput Map:3
+117:Building Site Map:3
+118:Mickey's House Map:3
+119:Disney Castle Map:3
+120:Agrabah Map:3
+121:Cave of Wonders Map:3
+122:Ruins Map:3
+123:Undersea Kingdom Map:3
+124:Starry Hill:3
+125:100 Acre Wood Map:3
+126:Rabbit's Howse Map:3
+127:Piglet's Howse Map:3
+128:Kanga's Howse Map:3
+129:Spooky Cave Map:3
+130:Palace Map:3
+131:Tent:2
+132:Shock Charm:8
+133:Shock Charm+:8
+134:Coliseum Map:3
+135:Underworld Map:3
+136:Caverns Map:3
+137:Upper Slash:4
+138:Scan:4
+139:Adamant Shield:7
+140:Chain Gear:7
+141:Ogre Shield:7
+142:Falling Star:7
+143:Dreamcloud:7
+144:Knight Defender:7
+145:Genji Shield:7
+146:Akashic Record:7
+147:Nobody Guard:7
+148:Hammer Staff:6
+149:Victory Bell:6
+150:Meteor Staff:6
+151:Comet Staff:6
+152:Lord's Broom:6
+153:Wisdom Wand:6
+154:Rising Dragon:6
+155:Nobody Lance:6
+156:Shaman's Relic:6
+157:Grand Ribbon:8
+158:Aerial Recovery:4
+159:Lamp Charm:30
+160:Feather Charm:30
+161:Staff of Detection:6
+162:Combo Plus:4
+163:Air Combo Plus:4
+164:N/A:12
+165:Donald Fire:4
+166:Donald Blizzard:4
+167:Donald Thuder:4
+168:Donald Cure:4
+169:N/A:12
+170:N/A:12
+171:N/A:12
+172:N/A:12
+173:Fire Bangle:8
+174:Fira Bangle:8
+175:N/A:12
+176:Healing Water:4
+177:Furious Shout:4
+178:N/A:12
+179:N/A:12
+180:N/A:12
+181:N/A:12
+182:N/A:12
+183:N/A:12
+184:N/A:12
+185:N/A:12
+186:N/A:12
+187:Cure Potion:4
+188:N/A:12
+189:N/A:12
+190:Healing Herb:4
+191:N/A:12
+192:N/A:12
+193:N/A:12
+194:N/A:12
+195:Slow 3:4
+196:N/A:12
+197:Firaga Bangle:8
+198:Trinity Limit:4
+199:Fantasia:4
+200:Flare Force:4
+201:Tornado Fusion:4
+202:Teamwork:4
+203:Trick Fantasy:4
+204:Overdrive:4
+205:Howling Moon:4
+206:Applause, Applause:4
+207:Dragonblaze:4
+208:Eternal Session:4
+209:King's Pride:4
+210:Treasure Isle:4
+211:Complete Compliment:4
+212:N/A:12
+213:N/A:12
+214:N/A:12
+215:Pulsing Thunder:4
+216:Brave Shot:4
+217:Brave Shot:4
+218:Sonic Strike:4
+219:Sonic End:4
+220:Wisdom Shot:4
+221:Mobile Action:4
+222:N/A:12
+223:Synch Blade:4
+224:Magic Haste:4
+225:Magic Spice:4
+226:Secret Report 1:3
+227:Secret Report 2:3
+228:Secret Report 3:3
+229:Secret Report 4:3
+230:Secret Report 5:3
+231:Secret Report 6:3
+232:Secret Report 7:3
+233:Secret Report 8:3
+234:Secret Report 9:3
+235:Secret Report 10:3
+236:Secret Report 11:3
+237:Secret Report 12:3
+238:Secret Report 13:3
+239:N/A:12
+240:N/A:12
+241:N/A:12
+242:N/A:12
+243:N/A:12
+244:N/A:12
+245:N/A:12
+246:Over the Horizon:4
+247:Omega Finale:4
+248:N/A:12
+249:N/A:12
+250:Halloween Town Map:3
+251:Naval Map:3
+252:Pride Rock Map:3
+253:Marketplace Map:3
+254:Pit Cell Area Map:3
+255:Twilight Town Map:3
+256:Dark City Map:3
+257:Master Strike:4
+258:Disaster:4
+259:Endless Magic:4
+260:N/A:12
+261:Master Magic:4
+262:Slapshot:4
+263:Dodge Slash:4
+264:Slide Dash:4
+265:Guard Break:4
+266:Explosion:4
+267:Finishing Leap:4
+268:Counterguard:4
+269:Aerial Sweep:4
+270:Aerial Spiral:4
+271:Horizontal Slash:4
+272:Aerial Spiral:4
+273:Retaliating Slash:4
+274:Drive Recovery:2
+275:High Drive Recovery:2
+276:Power Boost:2
+277:Magic Boost:2
+278:Defense Boost:2
+279:AP Boost:2
+280:Dark Shard:10
+281:Dark Stone:10
+282:Dark Gem:10
+283:Dark Crystal:10
+284:Firagun Bangle:8
+285:N/A:12
+286:Blizzard Armlet:8
+287:Blizzara Armlet:8
+288:Blizzaga Armlet:8
+289:Blizzagun Armlet:8
+290:N/A:12
+291:Thunder Trinket:8
+292:Thundara Trinket:8
+293:Thundaga Trinket:8
+294:Thundagun Trinket:8
+295:N/A:12
+296:Shadow Anklet:8
+297:Dark Anklet:8
+298:Midnight Anklet:8
+299:Chaos Anklet:8
+300:N/A:12
+301:Abas Chain:8
+302:Aegis Chain:8
+303:Acrisius:8
+304:Ribbon:8
+305:Champion Belt:8
+306:Petite Ribbon:8
+307:Acrisius+:8
+308:Cosmic Chain:8
+309:N/A:12
+310:N/A:12
+311:N/A:12
+312:N/A:12
+313:N/A:12
+314:N/A:12
+315:N/A:12
+316:N/A:12
+317:Blazing Shard:10
+318:Blazing Stone:10
+319:Blazing Gem:10
+320:Blazing Crystal:10
+321:N/A:12
+322:N/A:12
+323:N/A:12
+324:N/A:12
+325:Lightning Shard:10
+326:Lightning Stone:10
+327:Lightning Gem:10
+328:Lightning Crystal:10
+329:Power Shard:10
+330:Power Stone:10
+331:Power Gem:10
+332:Power Crystal:10
+333:Lucid Shard:10
+334:Lucid Stone:10
+335:Lucid Gem:10
+336:Lucid Crystal:10
+337:Dense Shard:10
+338:Dense Stone:10
+339:Dense Gem:10
+340:Dense Crystal:10
+341:Twilight Shard:10
+342:Twilight Stone:10
+343:Twilight Gem:10
+344:Twilight Crystal:10
+345:Mythril Shard:10
+346:Mythril Stone:10
+347:Mythril Gem:10
+348:Mythril Crystal:10
+349:Bright Shard:10
+350:Bright Stone:10
+351:Bright Gem:10
+352:Bright Crystal:10
+353:Energy Shard:10
+354:Energy Stone:10
+355:Energy Gem:10
+356:Energy Crystal:10
+357:Serenity Shard:10
+358:Serenity Stone:10
+359:Serenity Gem:10
+360:Serenity Crystal:10
+361:Orichalcum+:10
+362:Munny Pouch:3
+363:Crystal Orb:3
+364:Seifer's Trophy:3
+365:Trournament Poster:3
+366:Poster:3
+367:Letter:3
+368:Naminé's Sketches:3
+369:Membership Card:3
+370:Olympus Stone:3
+371:Auron's Statue:3
+372:Cursed Medallion:3
+373:Preasent:3
+374:Decoy Preasents:3
+375:Ice Cream:3
+376:Picture:3
+377:Orichalcum:10
+378:Frost Shard:10
+379:Frost Stone:10
+380:Frost Gem:10
+381:Frost Crystal:10
+382:Mega-Recipe:3
+383:Baseball Charm:30
+384:Struggle Sword:5
+385:Auto Valor:4
+386:Auto Wisdom:4
+387:Auto Master:4
+388:Auto Final:4
+389:Auto Summon:4
+390:Combo Boost:4
+391:Air Combo Boost:4
+392:Reaction Boost:4
+393:Finishing Plus:4
+394:Negative Combo:4
+395:Berserk Charge:4
+396:Damage Drive:4
+397:Drive Boost:4
+398:Form Boost:4
+399:Summon Boost:4
+400:Combination Boost:4
+401:Experience Boost:4
+402:Leaf Bracer:4
+403:Magic Lock-On:4
+404:No Experience:4
+405:Draw:4
+406:Jackpot:4
+407:Lucky Lucky:4
+408:Fire Boost:4
+409:Blizzard Boost:4
+410:Thunder Boost:4
+411:Item Boost:4
+412:MP Rage:4
+413:MP Haste:4
+414:Defender:4
+415:Second Chance:4
+416:Once More:4
+417:Auto Limit:4
+418:Auto Change:4
+419:Hyper Healing:4
+420:Auto Healing:4
+421:MP Hastera:4
+422:MP Hastega:4
+423:Goofy Tornado:4
+424:N/A:12
+425:Goofy Turbo:4
+426:Slash Frenzy:4
+427:Quickplay:4
+428:Divider:4
+429:Goofy Bash:4
+430:Ferocious Rush:4
+431:Blazing Fury:4
+432:Icy Terror:4
+433:Bolts of Sorrow:4
+434:Mushu Fire:4
+435:Flame Tongue:4
+436:Dark Shield:4
+437:N/A:12
+438:Dark Aura:4
+439:Fierce Claw:4
+440:Groundshaker:4
+441:N/A:12
+442:N/A:12
+443:N/A:12
+444:Scouting Disk:4
+445:Slow 2:4
+446:No Mercy:4
+447:Rain Storm:4
+448:Bone Smash:4
+449:Star Recipe:3
+450:Recovery Recipe:3
+451:Skill Recipe:3
+452:Guard Recipe:3
+453:Dummy 06:3
+454:Dummy 07:3
+455:Dummy 08:3
+456:Dummy 09:3
+457:Dummy 10:3
+458:Dummy 11:3
+459:Dummy 12:3
+460:Dummy 13:3
+461:Dummy 14:3
+462:Dummy 15:3
+463:Dummy 16:3
+464:Road to Discovery:3
+465:Strength Beyond Strength:3
+466:Book of Shadows:3
+467:Cloaked Thunder:3
+468:Eternal Blossom:3
+469:Rare Document:3
+470:Dummy 23:3
+471:Dummy 24:3
+472:Dummy 25:3
+473:Dummy 26:3
+474:Dummy 27:3
+475:Style Recipe:3
+476:Moon Recipe:3
+477:Queen Recipe:3
+478:King Recipe:3
+479:Ultimate Recipe:3
+480:Star Seeker:5
+481:Hidden Dragon:5
+482:Save the Queen:6
+483:Save the King:7
+484:Hero's Crest:5
+485:Monochrome:5
+486:Follow the Wind:5
+487:Circle of Life:5
+488:Photon Debugger:5
+489:Gull Wing:5
+490:Rumbling Rose:5
+491:Guardian Soul:5
+492:Wishing Lamp:5
+493:Decisive Pumpkin:5
+494:Sleeping Lion:5
+495:Sweet Memories:5
+496:Mysterious Abyss:5
+497:Fatal Crest:5
+498:Bond of Flame:5
+499:Fenrir:5
+500:Ultima Weapon:5
+501:Struggle Wand:5
+502:Struggle Hammer:5
+503:Save the Queen+:6
+504:Save the King+:7
+505:The Interceptor Map:3
+506:The Black Pearl Map:3
+507:Isla de Muerta Map:3
+508:Ship Graveyard Map:3
+509:Christmas Town Map:3
+510:Curly Hill Map:3
+511:Oasis Map:3
+512:Savannah Map:3
+513:Castle Perimeter Map:3
+514:The Great Maw Map:3
+515:I/O Tower Map:3
+516:Central Computer Core Map:3
+517:Solar Sailor Simulation Map:3
+518:Window of Time Map:3
+519:Auto Assault:4
+520:Finishing Blast:4
+521:Combo Upper:4
+522:Aerial Impulse:4
+523:Retaliating Smash:4
+524:Promise Charm:3
+525:Running Tackle:4
+526:Dash:4
+527:Final Arcana:4
+528:Final Strike:4
+529:Final Arts:4
+530:Crime and Punishment:4
+531:Sunset Hill Map:3
+532:Mansion Map:3
+533:Tower Map:3
+534:DH Map:3
+535:Munny Pouch:3
+536:Castle That Never Was Map:3
+537:Hades Cup Trophy:3
+538:"The Struggle" Trophy:3
+539:Combo Master:4
+540:Drive Converter:4
+541:Light and Dark:4
+542:Critical Half:4
+543:Two Become One:5
+544:Winner's Proof:5
+545:Centurian:6
+546:Centurian+:6
+547:Plain Mushroom:6
+548:Plain Mushroom+:6
+549:Precious Mushroom:6
+550:Precious Mushroom+:6
+551:Premium Mushroom:6
+552:Frozen Pride:7
+553:Frozen Pride+:7
+554:Joyous Mushroom:7
+555:Joyous Mushroom+:7
+556:Majestic Mushroom:7
+557:Majestic Mushroom+:7
+558:Ultimate Mushroom:7
+559:Flash Step:4
+560:Aerial Dive:4
+561:Magnet Splash:4
+562:Round Break:4
+563:Limit Form:26
+564:Dodge Roll LV1:4
+565:Dodge Roll LV2:4
+566:Dodge Roll LV3:4
+567:Dodge Roll MAX:4
+568:Autolimit:4
+569:Sonic Blade:4
+570:Ars Arcanum:4
+571:Strike Raid:4
+572:Ragnarok:4
+573:Zantetsuken:4
+574:Ripple Drive:4
+575:Hurricane Period:4
+576:Remembrance Shard:10
+577:Remembrance Stone:10
+578:Remembrance Gem:10
+579:Remembrance Crystal:10
+580:Tranquility Shard:10
+581:Tranquility Stone:10
+582:Tranquility Gem:10
+583:Tranquility Crystal:10
+584:Lost Illusion:10
+585:Manifest Illusion:10
+586:Dark Remembrance Map:3
+587:Zantetsu Counter:4
+588:Reflect Combo:4
+589:HP Gain:4
+590:Depths of Remembrance Map:3
+591:N/A:12
+592:Garden of Assemblage Map:3
+593:Proof of Connection:3
+594:Proof of Nonexistence:3
+595:Proof of Peace:3
+596:Protect:4
+597:Protera:4
+598:Protega:4
+599:Executive's Ring:18
+600:Shaman's Relic+:6
+601:Akashic Record+:7

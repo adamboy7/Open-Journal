@@ -1,0 +1,93 @@
+1365:Shadow:1
+301:Soldier:1
+303:Large Body:1
+71:Silver Rock:1
+72:Emerald Blues:1
+73:Crimson Jazz:1
+74:Air Pirate:1
+2:Trick Ghost:1
+3:Rabid Dog:1
+4:Hook Bat:1
+5:Bookmaster:1
+7:Minute Bomb:1
+8:Hammer Frame:1
+75:Bulky Vendor:1
+11:Fortuneteller:1
+14:Cannon Gun:1
+304:Rapid Thruster:1
+18:Driller Mole:1
+17:Lance Soldier:1
+122:Morning Star:1
+76:Fiery Globe:1
+77:Icy Cube:1
+1:Fat Bandit:1
+12:Luna Bandit:1
+367:Gargoyle Knight:1
+368:Gargoyle Warrior:1
+119:Wight Knight:1
+1774:Graveyard:1
+1771:Toy Soldier:1
+6:Aeroplane:1
+13:Hot Rod:1
+9:Assault Rider:1
+10:Nightwalker:1
+1575:Bolt Tower:1
+121:Magnum Loader:1
+1114:Strafer:1
+16:Devastator:1
+15:Living Bone:1
+19:Shaman:1
+20:Aerial Knocker:1
+123:Tornado Step:1
+124:Crescendo:1
+125:Creeper Plant:1
+305:Armored Knight:1
+306:Surveillance Robot:1
+120:Neoshadow:1
+2412:Spring Metal:1
+2413:Aerial Viking:1
+2403:Magic Phantom:1
+2404:Beffudler:1
+2414:Runemaster:1
+2405:Iron Hammer:1
+2406:Mad Ride:1
+2407:Camo Cannon:1
+2408:Reckless:1
+2409:Lance Warrior:1
+2411:Necromancer:1
+2410:Aerial Champ:1
+1035:Volcano Lord:1
+1036:Blizzard Lord :1
+353:Thresholder:1
+2187:Possessor:1
+355:Shadow Stalker:1
+354:Dark Thorn:1
+358:Illuminator:1
+1543:Grim Reaper:1
+1113:Groundshaker:1
+1486:Prison Keeper:1
+357:Storm Rider:1
+2342:No. 1:1
+2343:No. 2:1
+2344:No. 3:1
+2345:No. 4:1
+2346:No. 5:1
+2347:No. 6:1
+2348:No. 7:1
+2349:No. 8:1
+2350:No. 9:1
+2351:No. 10:1
+2352:No. 11:1
+2353:No. 12:1
+2354:No. 13:1
+318:Dusk:2
+317:Creeper:2
+308:Dragoon:2
+309:Assassin:2
+310:Samurai:2
+311:Sniper:2
+312:Dancer:2
+313:Berserker:2
+314:Gambler:2
+316:Sorcerer:2
+307:Twilight Thorn:2
