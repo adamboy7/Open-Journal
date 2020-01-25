@@ -4,7 +4,7 @@ Open Journal is an easily customizable and searchable index of items and loot. C
 # How it works:
 
 ## Item Index and Enemy Index
-The backbone of the journal is designed to be really simple and easy to edit. Every item, weapon, and ability is defined in item_Index.txt. Every Enemy is defined in enemy_Index.txt. The structure of any given item (Enemies follow the same format, just a different set of ID's and icons) is broken into three simple parts seperated by colons. Add a Number:Name:Number to an index and you've created and index a custom item/enemy.
+The backbone of the journal is designed to be really simple and easy to edit. Every item, weapon, and ability is defined in item_Index.txt. Every Enemy is defined in enemy_Index.txt. The structure of any given item (Enemies follow the same format, just a different set of ID's and icons) is broken into three simple parts seperated by colons. Add a Number:Name:Number to an index and you've created and indexed a custom item/enemy.
 
 <img src="https://github.com/adamboy7/Open-Journal/blob/master/readme/index.png?raw=true">
 
