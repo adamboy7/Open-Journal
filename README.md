@@ -17,7 +17,7 @@ The backbone of the journal is designed to be really simple and easy to edit. Ev
 * *Icon: A number loosely corisponding to a grid of icons found in fontimage.bar on the disc itself. Enemies use a different set of icons, 1 for Heartless, 2 for Nobodies, 3 for other (Bosses and other humanoid enemies)*
 
 ## Enemy Drops
-Enemy drops are defined and stored in the Drops folder. The name of the enemy is the name of the file (Case sensitive, needs to match a name in enemy_Index). The drops are defined by putting item existing ID numbers inside an enemy's file. Add an ID number to an enemy's file, it now "drops" that item.
+Enemy drops are defined and stored in the Drops folder. The name of the enemy is the name of the file (Case sensitive, needs to match a name in enemy_Index). The drops are defined by putting existing item ID numbers inside an enemy's file. Add an ID number to an enemy's file, it now "drops" that item.
 
 <img src="https://github.com/adamboy7/Open-Journal/blob/master/readme/drops.png">
 
