@@ -10,7 +10,7 @@ The backbone of the journal is designed to be really simple and easy to edit. Ev
 
 ### ID# : Name : Icon
 
-* *ID#: The number assigned to the item, usually it's position in the index starting from 0. Items don't have to be in order though and gaps are allowed. Supplied indexies are based off of in game values found in RAM using Crazycatz00's Englich Patch.*
+* *ID#: The number assigned to the item, usually it's position in the index starting from 0. Items don't have to be in order though and gaps are allowed. Supplied indexies are based off of in game values found in RAM using Crazycatz00's English Patch.*
 
 * *Name: What you'd like to call your item/ability/enemy. Supplied names are based off of the 2.5 HD remake. Any character including spaces are allowed, except colon ":" and hashtag "#". Colon is used as the index divider, and any line with a hashtag will be treated as a comment.*
 
