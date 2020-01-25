@@ -10,14 +10,14 @@ The backbone of the journal is designed to be really simple and easy to edit. Ev
 
 ### ID# : Name : Icon
 
-###### *ID#: The number assigned to the item, usually it's position in the index starting from 0. Items don't have to be in order though and gaps are allowed. Supplied indexies are based off of in game values found in RAM using Crazycatz00's Englich Patch.*
+* *ID#: The number assigned to the item, usually it's position in the index starting from 0. Items don't have to be in order though and gaps are allowed. Supplied indexies are based off of in game values found in RAM using Crazycatz00's Englich Patch.*
 
-###### *Name: What you'd like to call your item/ability/enemy. Supplied names are based off of the 2.5 HD remake. Any character including spaces are allowed, except colon ":" and hashtag "#". Colon is used as the index divider, and any line with a hashtag will be treated as a comment.*
+* *Name: What you'd like to call your item/ability/enemy. Supplied names are based off of the 2.5 HD remake. Any character including spaces are allowed, except colon ":" and hashtag "#". Colon is used as the index divider, and any line with a hashtag will be treated as a comment.*
 
-###### *Icon: A number loosely corisponding to a grid of icons found in fontimage.bar on the disc itself. Enemies use a different set of icons, 1 for Heartless, 2 for Nobodies, 3 for other (Bosses and other humanoid enemies)*
+* *Icon: A number loosely corisponding to a grid of icons found in fontimage.bar on the disc itself. Enemies use a different set of icons, 1 for Heartless, 2 for Nobodies, 3 for other (Bosses and other humanoid enemies)*
 
 ## Enemy Drops
-Enemy drops are defined and stored in the Drops folder. The name of the enemy is the name of the file (Case sensitive, needs to match a name in enemy_Index). The drops are defined by putting item ID numbers inside an enemy's file. Add an ID number to an enemy's file, it now "drops" that item.
+Enemy drops are defined and stored in the Drops folder. The name of the enemy is the name of the file (Case sensitive, needs to match a name in enemy_Index). The drops are defined by putting item existing ID numbers inside an enemy's file. Add an ID number to an enemy's file, it now "drops" that item.
 
 <img src="https://github.com/adamboy7/Open-Journal/blob/master/readme/drops.png">
 
@@ -26,11 +26,11 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 
 <img src= "https://github.com/adamboy7/Open-Journal/blob/master/readme/worlds.png">
 
-*Chests: A list of Item ID numbers corosponding to ID's found in item_Index.txt
+* Chests: A list of Item ID numbers corosponding to ID's found in item_Index.txt
 
-*Enemies: A list of enemy ID numbers corosponding to ID's found in enemy_Index.txt
+* Enemies: A list of enemy ID numbers corosponding to ID's found in enemy_Index.txt
 
-*Rewards: A list of Item ID numbers corosponding to ID's found in item_Index.txt
+* Rewards: A list of Item ID numbers corosponding to ID's found in item_Index.txt
 
 # Todo:
 * **An actual GUI**
