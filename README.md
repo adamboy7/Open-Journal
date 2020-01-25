@@ -26,11 +26,11 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 
 <img src= "https://github.com/adamboy7/Open-Journal/blob/master/readme/worlds.png">
 
-* *Chests: A list of Item ID numbers corosponding to ID's found in item_Index.txt*
+* *Chests: A list of Item ID numbers corresponding  to ID's found in item_Index.txt*
 
-* *Enemies: A list of enemy ID numbers corosponding to ID's found in enemy_Index.txt*
+* *Enemies: A list of enemy ID numbers corresponding  to ID's found in enemy_Index.txt*
 
-* *Rewards: A list of Item ID numbers corosponding to ID's found in item_Index.txt*
+* *Rewards: A list of Item ID numbers corresponding  to ID's found in item_Index.txt*
 
 # Todo:
 * **An actual GUI**
@@ -38,6 +38,7 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 * Better define chest locations (World/Closest Save/Room/Coordinates maybe?)
 * Impliment boss fights giving abilities
 * Gummi treasures
+* Puzzle Pieces
 * Impliment a texture pack system to load user supplied images (Avoid uploading copyrighted textures as much as reasonably possible)
 
 # Wishful Thinking:
