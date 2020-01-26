@@ -8,6 +8,7 @@ file = open('item_Index.txt', encoding='utf-8-sig')
 for line in file :
     line_Count = line_Count + 1
     if str(':') not in line: continue
+    if str('#') in line: continue
     line = line.rstrip()
     line = line.split(':')
     try:
