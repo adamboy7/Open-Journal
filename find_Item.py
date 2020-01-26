@@ -32,13 +32,14 @@ def item_Lookup(Data) :
             Search = input("Look up an Item: ")
             return item_Lookup(Search)
 
-Search = input("What do you want to find?: ")
-if Search in Quit : exit()
-find = item_Lookup(Search)
+while True :
+    Search = input("What do you want to find?: ")
+    if Search in Quit : exit()
+    find = item_Lookup(Search)
 
-for filename in glob.glob(os.path.join("Drops", "*.txt")) :
-    temp_File = open(filename, "r")
-    for line in temp_File :
-        if str(find) == str(line) :
-            print (filename[6:-4])
-            break
+    for filename in glob.glob(os.path.join("Drops", "*.txt")) :
+        temp_File = open(filename, "r")
+        for line in temp_File :
+            if str(find) == str(line) :
+                print (filename[6:-4])
+                break
