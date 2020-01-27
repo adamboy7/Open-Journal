@@ -40,6 +40,7 @@ while True :
     for filename in glob.glob(os.path.join("Drops", "*.txt")) :
         temp_File = open(filename, "r")
         for line in temp_File :
+            line = line.strip()
             if str(find) == str(line) :
                 print (filename[6:-4])
                 break
