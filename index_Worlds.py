@@ -18,10 +18,20 @@ for filename in glob.glob(os.path.join("Worlds", "*")) :
     enemies_Temp = list()
     try:
         file_Chests = open(os.path.join("Worlds", name_Temp, "chests.txt"), encoding='utf-8-sig')
+        line_Count = 0
+        for line in file_Chests :
+            line_Count = line_Count + 1
+            line = line.strip()
+            try:
+                line = int(line)
+                chests_Temp.append(line)
+            except:
+                print ('Invalid drop in', filename + 'chests.txt', 'Line:', line_Count)
+                continue
+        chests[name_Temp] = chests_Temp
     except:
         print ('No chests found in', name_Temp)
         chests[name_Temp] = chests_Temp
-
     try:
         file_Rewards = open(os.path.join("Worlds", name_Temp, "rewards.txt"), encoding='utf-8-sig')
         line_Count = 0
