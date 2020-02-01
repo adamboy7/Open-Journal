@@ -34,7 +34,6 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 
 # Todo:
 * **An actual GUI**
-* Impliment boss fights giving abilities
 * Impliment enemies/chests only being availible on a given visit
 * Puzzle pieces
 * Better define chest locations (World/Closest Save/Room/Coordinates maybe?)
