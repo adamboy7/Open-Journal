@@ -50,7 +50,7 @@ while True :
     for world_Name in chests :
         if find in chests.get(world_Name) :
             if new_Line == 1 :
-                print ("\n")
+                print ()
             line = 0
             world_Name_Temp = world_Name
             chests_List_Temp = chests.get(world_Name)
@@ -60,4 +60,18 @@ while True :
                 if str(find) == str(drop) :
                     print ("Found", str(ID[find]), "in chest #" + str(line))
             new_Line = 1
-    print ("\n")
+
+    for world_Name in rewards :
+        if find in rewards.get(world_Name) :
+            if new_Line == 1 :
+                print ()
+            line = 0
+            world_Name_Temp = world_Name
+            rewards_List_Temp = rewards.get(world_Name)
+            print (str(world_Name_Temp) + ":")
+            for drop in rewards_List_Temp :
+                line = line + 1
+                if str(find) == str(drop) :
+                    print ("Found", str(ID[find]), "reward from", world_Name_Temp)
+            new_Line = 1
+    print ()
