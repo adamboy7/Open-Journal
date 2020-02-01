@@ -4,6 +4,8 @@ import os.path
 line_Count = 0
 name_Temp = str()
 
+worlds = list()
+
 chests = dict()
 chests_Temp = list()
 rewards = dict()
@@ -12,6 +14,7 @@ enemies = dict()
 enemies_Temp = list()
 
 for filename in glob.glob(os.path.join("Worlds", "*")) :
+    worlds.append(str(filename[7:]))
     name_Temp = str(filename[7:])
     chests_Temp = list()
     rewards_Temp = list()
