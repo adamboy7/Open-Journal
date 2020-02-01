@@ -34,11 +34,12 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 
 # Todo:
 * **An actual GUI**
-* Custom art
-* Better define chest locations (World/Closest Save/Room/Coordinates maybe?)
 * Impliment boss fights giving abilities
+* Impliment enemies/chests only being availible on a given visit
+* Puzzle pieces
+* Better define chest locations (World/Closest Save/Room/Coordinates maybe?)
+* Custom art
 * Gummi treasures
-* Puzzle Pieces
 * Impliment a texture pack system to load user supplied images (Avoid uploading copyrighted textures as much as reasonably possible)
 
 # Wishful Thinking:
