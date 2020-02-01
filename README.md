@@ -26,11 +26,11 @@ Currently enemy and item indexes are stored on the root folder. However thanks t
 
 <img src= "https://github.com/adamboy7/Open-Journal/blob/master/readme/worlds.png">
 
-* *Chests: A list of Item ID numbers corresponding  to ID's found in item_Index.txt*
+* *Chests: A list of item ID numbers corresponding  to ID's found in item_Index.txt*
 
 * *Enemies: A list of enemy ID numbers corresponding  to ID's found in enemy_Index.txt*
 
-* *Rewards: A list of Item ID numbers corresponding  to ID's found in item_Index.txt*
+* *Rewards: A list of item ID numbers corresponding  to ID's found in item_Index.txt*
 
 # Todo:
 * **An actual GUI**
