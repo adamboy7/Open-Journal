@@ -50,7 +50,11 @@ try:
             reward_File.close()
             break
         drop = item_Lookup(reward_Prompt)
-        reward_File.write(str(drop))
+        if newLine == 0 :
+            reward_File.write(str(drop))
+            newLine = 1
+        else:
+            reward_File.write("\n" + str(drop))
 except:
     print (str(world) + " already has a rewards file!")
     delete_Prompt = input("Would you like to delete " + str(world) + "'s rewards.txt?: ")
@@ -63,7 +67,11 @@ except:
                 reward_File.close()
                 break
             drop = item_Lookup(reward_Prompt)
-            reward_File.write(str(drop))
+            if newLine == 0 :
+                reward_File.write(str(drop))
+                newLine = 1
+            else:
+                reward_File.write("\n" + str(drop))
     if delete_Prompt in No :
         print ('Contents will be appended')
         reward_File = open(os.path.join("Worlds", world, "rewards.txt"), "a")
