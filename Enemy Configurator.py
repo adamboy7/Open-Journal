@@ -33,6 +33,7 @@ def world_Lookup(Data) :
     if Data in worlds :
         return (Data)
     else:
+        print ("World name not found")
         Search = input("Look up a world: ")
         return world_Lookup(Search)
 
