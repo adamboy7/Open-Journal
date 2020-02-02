@@ -559,8 +559,8 @@
 558:Ultimate Mushroom:7
 559:Flash Step:4
 560:Aerial Dive:4
-561:Magnet Splash:4
-562:Round Break:4
+561:Magnet Burst:4
+562:Vacinity Break:4
 563:Limit Form:26
 564:Dodge Roll LV1:4
 565:Dodge Roll LV2:4
