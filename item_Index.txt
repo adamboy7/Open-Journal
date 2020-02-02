@@ -270,7 +270,7 @@
 269:Aerial Sweep:4
 270:Aerial Spiral:4
 271:Horizontal Slash:4
-272:Aerial Spiral:4
+272:Aerial Finish:4
 273:Retaliating Slash:4
 274:Drive Recovery:2
 275:High Drive Recovery:2
