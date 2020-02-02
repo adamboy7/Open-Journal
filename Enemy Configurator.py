@@ -43,42 +43,50 @@ if world_Prompt in Quit :
     exit()
 world = world_Lookup(world_Prompt)
 try:
-    reward_File = open(os.path.join("Worlds", world, "enemies.txt"), "x")
+    enemy_File = open(os.path.join("Worlds", world, "enemies.txt"), "x")
     while True:
-        reward_Prompt = input("Select an Enemy: ")
-        if reward_Prompt in Quit :
-            reward_File.close()
+        enemy_Prompt = input("Select an Enemy: ")
+        if enemy_Prompt in Quit :
+            enemy_File.close()
             break
-        drop = enemy_Lookup(reward_Prompt)
-        reward_File.write(str(drop))
+        enemy = enemy_Lookup(enemy_Prompt)
+        if newLine == 0 :
+            enemy_File.write(str(drop))
+            newLine = 1
+        else:
+            enemy_File.write("\n" + str(drop))
 except:
     print (str(world) + " already has am Enemies file!")
     delete_Prompt = input("Would you like to delete " + str(world) + "'s enemies.txt?: ")
     if delete_Prompt in Yes :
         print ('Contents will be erased')
-        reward_File = open(os.path.join("Worlds", world, "enemies.txt"), "w")
+        enemy_File = open(os.path.join("Worlds", world, "enemies.txt"), "w")
         while True:
-            reward_Prompt = input("Select an Enemy: ")
-            if reward_Prompt in Quit :
-                reward_File.close()
+            enemy_Prompt = input("Select an Enemy: ")
+            if enemy_Prompt in Quit :
+                enemy_File.close()
                 break
-            drop = enemy_Lookup(reward_Prompt)
-            reward_File.write(str(drop))
-    if delete_Prompt in No :
-        print ('Contents will be appended')
-        reward_File = open(os.path.join("Worlds", world, "enemies.txt"), "a")
-        while True:
-            reward_Prompt = input("Select an Enemy: ")
-            if reward_Prompt in Quit :
-                reward_File.close()
-                break
-            newLine = 1
-            drop = enemy_Lookup(reward_Prompt)
+            enemy = enemy_Lookup(enemy_Prompt)
             if newLine == 0 :
-                reward_File.write(str(drop))
+                enemy_File.write(str(drop))
                 newLine = 1
             else:
-                reward_File.write("\n" + str(drop))
+                enemy_File.write("\n" + str(drop))
+    if delete_Prompt in No :
+        print ('Contents will be appended')
+        enemy_File = open(os.path.join("Worlds", world, "enemies.txt"), "a")
+        while True:
+            enemy_Prompt = input("Select an Enemy: ")
+            if enemy_Prompt in Quit :
+                enemy_File.close()
+                break
+            newLine = 1
+            enemy = enemy_Lookup(enemy_Prompt)
+            if newLine == 0 :
+                enemy_File.write(str(drop))
+                newLine = 1
+            else:
+                enemy_File.write("\n" + str(drop))
     if delete_Prompt in Quit :
         print ('Contents will be unchanged')
         exit()
