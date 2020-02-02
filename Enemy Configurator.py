@@ -51,10 +51,10 @@ try:
             break
         enemy = enemy_Lookup(enemy_Prompt)
         if newLine == 0 :
-            enemy_File.write(str(drop))
+            enemy_File.write(str(enemy))
             newLine = 1
         else:
-            enemy_File.write("\n" + str(drop))
+            enemy_File.write("\n" + str(enemy))
 except:
     print (str(world) + " already has am Enemies file!")
     delete_Prompt = input("Would you like to delete " + str(world) + "'s enemies.txt?: ")
@@ -68,10 +68,10 @@ except:
                 break
             enemy = enemy_Lookup(enemy_Prompt)
             if newLine == 0 :
-                enemy_File.write(str(drop))
+                enemy_File.write(str(enemy))
                 newLine = 1
             else:
-                enemy_File.write("\n" + str(drop))
+                enemy_File.write("\n" + str(enemy))
     if delete_Prompt in No :
         print ('Contents will be appended')
         enemy_File = open(os.path.join("Worlds", world, "enemies.txt"), "a")
@@ -83,10 +83,10 @@ except:
             newLine = 1
             enemy = enemy_Lookup(enemy_Prompt)
             if newLine == 0 :
-                enemy_File.write(str(drop))
+                enemy_File.write(str(enemy))
                 newLine = 1
             else:
-                enemy_File.write("\n" + str(drop))
+                enemy_File.write("\n" + str(enemy))
     if delete_Prompt in Quit :
         print ('Contents will be unchanged')
         exit()
